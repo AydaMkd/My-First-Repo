@@ -1,2 +1,2 @@
 # My-First-Repo
-just getting started with my Portfolio 
+Just getting started with my Portfolio 
